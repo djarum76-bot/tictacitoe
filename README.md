@@ -1,6 +1,12 @@
-# tictactoe
+## Description
 
-A new Flutter project.
+This Tic Tac Toe game application is developed using Flutter. Tic Tac Toe is a classic two-player game where players take turns marking spaces on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+
+## Features
+
+- Simple and Intuitive Interface: The game features an easy-to-use interface, allowing players to make their moves with a simple tap on the grid.
+- Player vs. Player Mode: Play against a friend locally, taking turns on the same device.
+- Player vs. Computer Mode: Challenge the computer AI with adjustable difficulty levels. Test your skills against a smart opponent.
 
 ## Getting Started
 
